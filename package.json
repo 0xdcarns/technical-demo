@@ -1,0 +1,22 @@
+{
+  "name": "technical-demo",
+  "version": "1.0.0",
+  "description": "## TO INSTALL: - `npm i`",
+  "main": "demo.js",
+  "scripts": {
+    "test": "jest demo.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worker-9/technical-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worker-9/technical-demo/issues"
+  },
+  "homepage": "https://github.com/worker-9/technical-demo#readme",
+  "dependencies": {
+    "jest": "^27.0.4"
+  }
+}
